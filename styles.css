@@ -17,7 +17,7 @@ main {
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #35424a;
+    background: #2c3e50; /* Updated color for better accessibility */
     color: #ffffff;
     position: fixed;
     width: 100%;
